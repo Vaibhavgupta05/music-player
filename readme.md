@@ -6,9 +6,10 @@ This is a project we have built as a team using MERN stack
 ## Authors
 
 - [@Vaibhavgupta05](https://www.github.com/Vaibhavgupta05)
-- [@PratChan](https://www.github.com/PratChan)
+- [@ashpreetsingh72112](https://github.com/ashpreetsingh72112)
 - [@VaibhavSharma-git](https://www.github.com/VaibhavSharma-git)
-- [@Vaibhavgupta05](https://www.github.com/Vaibhavgupta05)
+- [@PratChan](https://www.github.com/PratChan)
+
 ## Installing
 
 To install this project run
@@ -31,7 +32,6 @@ To run this project on your local machine run
   cd back-end
   npm start
 ```
-
   
 ## Screenshots
 Home page
